@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mary-carmen/prueba701.git/static/css/main.adb1cd30.css",
+    "main.js": "/mary-carmen/prueba701.git/static/js/main.d0168d91.js",
+    "static/js/453.2accbebf.chunk.js": "/mary-carmen/prueba701.git/static/js/453.2accbebf.chunk.js",
+    "index.html": "/mary-carmen/prueba701.git/index.html",
+    "main.adb1cd30.css.map": "/mary-carmen/prueba701.git/static/css/main.adb1cd30.css.map",
+    "main.d0168d91.js.map": "/mary-carmen/prueba701.git/static/js/main.d0168d91.js.map",
+    "453.2accbebf.chunk.js.map": "/mary-carmen/prueba701.git/static/js/453.2accbebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb1cd30.css",
+    "static/js/main.d0168d91.js"
+  ]
+}
